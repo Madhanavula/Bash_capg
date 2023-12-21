@@ -1,0 +1,18 @@
+#!/bin/bash
+
+
+top | head -10
+
+ls
+
+free -m
+
+ls -l
+
+pwd
+
+uptime
+
+iostat
+
+df -h
